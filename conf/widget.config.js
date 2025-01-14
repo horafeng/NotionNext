@@ -39,9 +39,9 @@ module.exports = {
     {
       name: '葬花',
       artist: 'THT',
-      url: 'https://i.y.qq.com/n2/m/outchain/player/index.html?songid=316337023&songtype=0.mp3',
+      url: 'http://music.163.com/song/media/outer/url?id=503426999.mp3',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/503426999.jpg'
     },
     {
       name: '王都グランセル',

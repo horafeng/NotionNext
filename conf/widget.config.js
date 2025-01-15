@@ -41,7 +41,7 @@ module.exports = {
       artist: 'THT',
       url: 'http://music.163.com/song/media/outer/url?id=503426999.mp3',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/503426999.jpg'
+        'https://raw.githubusercontent.com/horafeng/image/refs/heads/main/qq%E9%9F%B3%E4%B9%90%E5%9B%BE%E7%89%87.jpg'
     },
     {
       name: 'Flower Dance',

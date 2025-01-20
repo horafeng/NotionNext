@@ -38,6 +38,7 @@ const Footer = ({ title }) => {
         <PoweredBy className='justify-center' />
       </span>
       <br />
+    <a href="https://icp.gov.moe/?keyword=20250315" target="_blank">萌ICP备20250315号</a>//萌备案号
     </footer>
   )
 }

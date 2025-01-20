@@ -24,14 +24,6 @@ const Footer = ({ title }) => {
         .<br />
         <BeiAnSite />
         <BeiAnGongAn />
-         {/* 添加备案信息 */}
-        <a
-          href="https://icp.gov.moe/?keyword=20250315"
-          target="_blank"
-          className="block mt-2 text-gray-600 dark:text-gray-300 underline"
-        >
-          萌ICP备20250315号
-        </a>
         <span className='hidden busuanzi_container_site_pv'>
           <i className='fas fa-eye' />
           <span className='px-1 busuanzi_value_site_pv'> </span>
